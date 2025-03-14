@@ -5,7 +5,7 @@ The project presents a generative model of social network formation based on two
 Empirical validation is performed using a high school friendship network dataset, demonstrating the model's ability to generate networks that closely mirror real social structures.
 
 > [!important]
-> 📄 [Read the full project report (PDF)](./research_project_adrien_pelfresne.pdf)
+> 📄 [Read the full project report (PDF)](https://github.com/dirdr/a_homophily_and_triadic_closure_model_of_social_networks/raw/main/research_project_adrien_pelfresne.pdf)
 
 ## License 📝
 
